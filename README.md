@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Jeano 👋
 - 🤖 Welcome to my Git.
 - 🦾 I'm an Engineer working to make Robots Smarter, Safer, and Reliable.
 - 🍃 I'm interested in Imitation learning, Perception, Planning and Articial Intelligence based control for Robots.
